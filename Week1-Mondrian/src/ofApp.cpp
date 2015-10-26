@@ -111,6 +111,10 @@ void ofApp::fractal(ofPoint A,ofPoint B,ofPoint C,ofPoint D,int num){
     }
 }
 
+void ofApp::emptyFunction(){
+    
+}
+
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
 
